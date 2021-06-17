@@ -10,7 +10,7 @@ Suppose we are missing some entries in a design matrix. If the columns are corre
 
 EM is not equivalent to simply replacing variables by their expectations and applying the standard MLE formula; that would ignore the posterior variance and would result in an incorrect estimate. Instead we must compute the expectation of the sufficient statistics, and plug that into the usual equation for the MLE. We can easily modify the algorithm to perform MAP estimation.
 
-**EM monotonically increases the observed data log likelihood**
+## EM monotonically increases the observed data log likelihood
 
 EM monotonically increases the observed data log likelihood until it reaches a local optimum. As a consequence of this result, if you do not observe monotonic increase of the observeddata log likelihood, you must have an error in your math and/or code.
 
@@ -18,3 +18,6 @@ EM monotonically increases the observed data log likelihood until it reaches a l
 <p align="center">
   <img src="https://github.com/maloyk-ai/MachineLearning/blob/main/log_observed_likelihood.png" height="120%" width="120%" title="observed data log likelihood">
 </p>
+
+## Output
+<img width="1167" alt="Screenshot 2021-06-17 at 11 29 07 PM" src="https://user-images.githubusercontent.com/84564226/122451289-96c60980-cfc5-11eb-8626-399a192963ec.png">
