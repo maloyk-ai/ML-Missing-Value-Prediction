@@ -11,7 +11,8 @@ EM monotonically increases the observed data log likelihood
 
 
 
-![imputed_parameter_1](https://user-images.githubusercontent.com/84564226/122373640-462bbd80-cf7f-11eb-8adf-657ac2b39119.png)
+![imputed_parameter_1](https://user-images.githubusercontent.com/84564226/122373640-462bbd80-cf7f-11eb-8adf-657ac2b39119.png). ![imputed_parameter_2](https://user-images.githubusercontent.com/84564226/122376212-9277fd00-cf81-11eb-8591-ebf7af8a0539.png)
+
 
 
 
