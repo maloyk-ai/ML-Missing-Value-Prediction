@@ -15,7 +15,7 @@
 <img src="https://github.com/maloyk-ai/MachineLearning/blob/main/imputed_parameters_3.png" height="75%" width="75%" title="Parameters">
 </p>
 
-<p style="font-family:'Courier New'" style="font-size:30px">
+<p style="font-family:'Courier New'" style="font-size:20px">
 -------------------------------------------Initialization-------------------------------------------
 <br/>
 NaN Rate:0.200000<br/>
